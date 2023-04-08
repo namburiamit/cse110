@@ -9,7 +9,7 @@ Click for [Experience](#experience)
 Click for [Leadership](#leadership)
 
 <p align="center">
-  <img src="screenshots/csesphoto.png" width="300">
+  <img src="cse110/../../csesphoto.png" width="300">
 </p>
 
 ```
