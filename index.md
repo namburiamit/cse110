@@ -34,13 +34,4 @@ print("Name: Amit Namburi")
   * Helping plan general body meetings.
 
 
-
-## Leadership
-
-* VP Internal at CSES (Computer Science and Engineering Society)
-     * Responsible for proper handling and execution of CSES’s events and collaborations.
-     * Leading CSES staff. Maintaining relations with outreach efforts of similar student organizations. 
-     * Helping plan general body meetings.
-
-
 Click here for my [To-Do List](to-do.md)
